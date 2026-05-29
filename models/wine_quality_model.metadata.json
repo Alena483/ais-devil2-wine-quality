@@ -1,0 +1,6 @@
+{
+    "model_type": "RandomForestRegressor",
+    "metrics": {
+        "r2_score": 0.4990969631709161
+    }
+}
